@@ -20,6 +20,7 @@ h1{
 
 h2{
   font-family: "Merienda", cursive;
+  color: #F2EDE4; 
   font-size: 28px;
   font-weight: 300;
   
@@ -27,6 +28,7 @@ h2{
 
 h3{
   font-family: "Merienda", cursive;
+  color: #F2EDE4; 
   font-size: 24px;
 }
 
@@ -38,15 +40,17 @@ img{
 
 p{
   font-family: "Merienda", cursive;
+  color: #F2EDE4; 
   line-height: 1.;
    margin-bottom: 20px;
   padding:10px 350px 5px 350px;
 }
 
-em {
+em{
   font-style: italic;
   color: white;
 }
+
 .merienda-<uniquifier> {
   font-family: "Merienda", cursive;
   font-optical-sizing: auto;
