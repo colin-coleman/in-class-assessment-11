@@ -38,8 +38,9 @@ img{
 
 p{
   font-family: "Merienda", cursive;
-  line-height: 2;
+  line-height: 1.;
    margin-bottom: 20px;
+  padding:10px 350px 5px 350px;
 }
 
 .merienda-<uniquifier> {
